@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bfb77eed247d8471baf5a6716dbfd685
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Resources/Prefabs/Outline.prefab
+  uploadId: 470272

@@ -1,0 +1,21 @@
+# ninja log v5
+99	283	7505534367198396	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6d411d5aeeee2ece
+40	889	7505534373187633	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a47698ba07ca1f91
+82	771	7505534372061086	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6eadce9691914bc
+61	823	7505534372473797	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7af9a9dc984c538d
+56	892	7505534373172067	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8f486eac6ccfe13b
+283	487	7505534368741142	D:/Setup/Unity/unity projects/hokm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5o1c1a4l/obj/arm64-v8a/libswappywrapper.so	7e309dc016441afe
+67	785	7505534372197838	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ceb9de072a2fe36
+49	823	7505534372569986	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d58721823cc03601
+87	811	7505534372384080	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b7a89ec27b1ed94e
+892	1037	7505534374148450	D:/Setup/Unity/unity projects/hokm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5o1c1a4l/obj/arm64-v8a/libgame.so	aea5430196d65e07
+59	308	7509894360906099	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	6d411d5aeeee2ece
+309	585	7509894362932353	D:/Setup/Unity/unity projects/hokm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5o1c1a4l/obj/arm64-v8a/libswappywrapper.so	7e309dc016441afe
+50	977	7509894367550994	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6eadce9691914bc
+42	990	7509894367693182	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ceb9de072a2fe36
+55	1000	7509894367794034	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b7a89ec27b1ed94e
+34	1044	7509894368218189	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	d58721823cc03601
+27	1053	7509894368243300	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	7af9a9dc984c538d
+22	1063	7509894368398428	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8f486eac6ccfe13b
+16	1134	7509894368983076	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a47698ba07ca1f91
+1134	1390	7509894370663053	D:/Setup/Unity/unity projects/hokm/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/Debug/5o1c1a4l/obj/arm64-v8a/libgame.so	aea5430196d65e07

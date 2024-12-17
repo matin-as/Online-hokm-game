@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7369044953b1b42998b0cfe3b48fc184
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Scripts/Fortune Wheel Framework/Editor/Roulette
+    1.colors
+  uploadId: 470272

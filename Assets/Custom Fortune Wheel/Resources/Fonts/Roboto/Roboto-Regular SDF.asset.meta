@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7fc25b50440c943df8bdcdccfda7c43b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Resources/Fonts/Roboto/Roboto-Regular SDF.asset
+  uploadId: 470272

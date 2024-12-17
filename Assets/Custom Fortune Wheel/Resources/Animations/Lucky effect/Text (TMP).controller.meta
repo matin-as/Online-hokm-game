@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95c4af5b0a7624c0bb8e7cbc7cd38cf9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Resources/Animations/Lucky effect/Text (TMP).controller
+  uploadId: 470272

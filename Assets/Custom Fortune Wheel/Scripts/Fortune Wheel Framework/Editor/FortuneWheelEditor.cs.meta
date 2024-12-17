@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5a45991b5b9de4507a4c332edd4e412d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Scripts/Fortune Wheel Framework/Editor/FortuneWheelEditor.cs
+  uploadId: 470272

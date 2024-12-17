@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f54eed93c81a84c93916c7d075e821d8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Resources/Prefabs/Pointer.prefab
+  uploadId: 470272

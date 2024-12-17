@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 698e9b68384d84ba09c5cb16f18db272
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Resources/Fonts/sinethar/Sinethar SDF.asset
+  uploadId: 470272

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bdbc979e581c94252aa9af2db84102e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 205459
+  packageName: Custom Fortune Wheel Editor
+  packageVersion: 1.0.0
+  assetPath: Assets/Custom Fortune Wheel/Resources/Fonts/copperplate/OPTICopperplate-Light
+    SDF.asset
+  uploadId: 470272
