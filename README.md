@@ -61,12 +61,6 @@ This project is licensed under the **CC0-1.0 license**. For more details, refer 
 
 ---
 
-## Tags 🔖
-
-#HokmBaz #Hokm_Game #Online_Card_Game #Pasoor #Card_Game
-
----
-
 ## 📧 Contact
 For feedback, reach out to us at:
 - Email: [mtasad2008@gmail.com](mailto:mtasad2008@gmail.com)
